@@ -17,5 +17,6 @@ public class Investment {
             totalInterset += money *(intersetRate/100)/12*month;
         }
         System.out.println("Total of interset: ");
+        //abc
     }
 }
